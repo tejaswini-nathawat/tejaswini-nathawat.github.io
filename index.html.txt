@@ -15,7 +15,7 @@ style="width:100%;max-width:960px"></div>
 <<<<<<< HEAD
 <p>This line is here to show how merging works.</p>
 =======
-div><img src="ji.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
+div><img src="ji.jpg" alt="Hello Git" style="width:100%;max-width:540px"></div>
 >>>>>>> newhello
 
 </body>
